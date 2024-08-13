@@ -1,6 +1,6 @@
 # 📰 News-Analyzer-Multi-featured-News-Application
 
-## 📹 There is a Video Demonstration of our Project
+## 📹 Video Demonstration
 
 [![Watch the video](https://github.com/avik199/News-Analyzer/assets/125206095/52e51b08-8133-4e28-87e0-5eaa7100425a)](https://github.com/avik199/News-Analyzer/assets/125206095/52e51b08-8133-4e28-87e0-5eaa7100425a)
 
